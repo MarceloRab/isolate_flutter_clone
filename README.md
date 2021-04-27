@@ -1,5 +1,7 @@
 # Flutter Isolate Web
 
+* [Autor - glut = > ](https://github.com/deakjahn/flutter_isolate_web).
+
 The title is a misnomer. Of course, there are no isolates in Flutter Web. What this code provides
 is a unified interface to isolates *and* web workers so that each platform can use its own.
 It's not a package on pub.dev and it won't be because you can't use it out of the box just like
