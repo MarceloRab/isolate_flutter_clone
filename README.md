@@ -1,6 +1,6 @@
 # Flutter Isolate Web
 
-* [Autor - glut = > ](https://github.com/deakjahn/flutter_isolate_web).
+* [> Autor - git <](https://github.com/deakjahn/flutter_isolate_web).
 
 The title is a misnomer. Of course, there are no isolates in Flutter Web. What this code provides
 is a unified interface to isolates *and* web workers so that each platform can use its own.
